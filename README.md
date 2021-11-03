@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in the applications of data science and machine learning in things like fraud detection, sports, and genomics
-- 🌱 I’m currently learning data strucutres and algorithms, as well as deep learning using TensorFlow and Keras
+- 🌱 I’m currently learning data structures and algorithms, as well as deep learning using TensorFlow and Keras
 - 📫 Feel free to reach me at my email: ahmed.syed2485@gmail.com
 
 <!---
